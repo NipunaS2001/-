@@ -1,3 +1,9 @@
+
+# 🍽️ Towa Cafe - ベーシックなカフェウェブサイト
+(https://wcbcafe.netlify.app/)
+
+
+
 # 🍽️ Towa Cafe - ベーシックなカフェウェブサイト
 
 架空のカフェ「**Towa Cafe**」のためのシンプルでクリーンな静的ウェブサイトプロジェクトです。
@@ -27,3 +33,4 @@
 - Google Fonts (Philosopher)
 - Git（バージョン管理用）
 - GitHub（ホスティングとコラボレーション用）
+
