@@ -1,6 +1,7 @@
+このウェブサイトはGitHubサーバーにデプロイされていますが、現在公開されていません。プロジェクトファイルをGitHubにアップロードし、GitHub Pagesを有効にしました。
 
 # 🍽️ Towa Cafe - ベーシックなカフェウェブサイト
-(https://wcbcafe.netlify.app/)
+https://towacafe.netlify.app/
 
 
 
